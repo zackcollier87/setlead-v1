@@ -1,0 +1,1 @@
+export { StandPage } from './StandPage';
