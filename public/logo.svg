@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
+  <rect width="320" height="80" rx="14" fill="#0f172a"/>
+  <path d="M24 58V22h11l8 15 8-15h11v36H52V39L43 54l-9-15v19H24Z" fill="#f8fafc"/>
+  <text x="78" y="52" fill="#f8fafc" font-size="30" font-family="Arial, Helvetica, sans-serif">SetLead</text>
+</svg>
